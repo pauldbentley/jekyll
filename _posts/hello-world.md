@@ -1,8 +1,8 @@
 ---
 title: Hello World
-tags:
-- tag1
-- tag2
+categories:
+- salt
+- pepper
 author: sush
 layout: post
 ---
