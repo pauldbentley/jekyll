@@ -15,7 +15,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 
 '
 baseurl: "/jekyll"
-url: ''
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 sass:
