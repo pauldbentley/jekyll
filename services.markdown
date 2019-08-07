@@ -1,7 +1,6 @@
 ---
 title: Services
 date: 2019-08-07 16:02:00 Z
-permalink: "/services/"
 position: 0
 ---
 
