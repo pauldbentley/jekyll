@@ -1,9 +1,8 @@
 ---
 title: Hello World
-date: 2019-02-20 00:00:00 Z
 categories:
-- hello
-- world
+- services
+- breeam
 author: sush
 layout: post
 ---
