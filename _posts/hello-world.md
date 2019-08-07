@@ -1,6 +1,5 @@
 ---
 title: Hello World
-date: 2019-08-07 12:10:00 Z
 tags:
 - tag1
 - tag2
