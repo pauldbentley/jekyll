@@ -8,7 +8,6 @@ collections:
   services:
     title: Services
     output: true
-    permalink: "/services-permalink/"
   uploads:
     title: Uploads
     output: true
