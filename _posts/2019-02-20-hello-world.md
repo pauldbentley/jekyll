@@ -1,8 +1,11 @@
 ---
 title: Hello World
 date: 2019-02-20 00:00:00 Z
-layout: post
+categories:
+- hello
+- world
 author: sush
+layout: post
 ---
 
 ### Lorem ipsum dolor sit amet
