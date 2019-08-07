@@ -8,6 +8,7 @@ collections:
   services:
     title: Services
     output: true
+    permalink: "/services/:path"
   uploads:
     title: Uploads
     output: true
