@@ -1,6 +1,7 @@
 ---
 title: About Us
 permalink: "/about-us/"
+position: 1
 layout: default
 ---
 
